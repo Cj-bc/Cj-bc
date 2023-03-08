@@ -6,7 +6,7 @@ This document is still under development.
 
 ## skills
 
-### Languages {#使う言語}
+### Languages
 
 1.  For communication
 
@@ -29,7 +29,7 @@ This document is still under development.
     [Cj-bc/playground](https://github.com/Cj-bc/playground) contains
     some practice program I made.
 
-## Technologies that I like {#Technologies-that-I-like}
+## Technologies that I like
 
 -   Functional Programming Language
     -   [Haskell](https://www.haskell.org/)
