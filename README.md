@@ -183,11 +183,11 @@ Package definitions
 
 ### \[Deprecated\] FDS: Face-Data-Server
 
-It was a project to build server-client model avatar application. FDS
-was the protocol for this project, but after I discovered
+It was a project to build server-client model avatar application.  
+FDS was the protocol for this project, but after I discovered
 [VirtualMotionCapture Protocol](https://protocol.vmc.info/), I switched
-to it and archived most of this project. Some repositories (e.g.
-`faclig`) is actively developed since then with VMCP.
+to it and archived most of this project.  
+Some repositories (e.g. `faclig`) is actively developed since then with VMCP.
 
 |                                                                                                                              |
 |:-----------------------------------------------------------------------------------------------------------------------------|
@@ -200,10 +200,9 @@ to it and archived most of this project. Some repositories (e.g.
 
 ### \[Deprecated\] Shgif: make ASCII ART Gif file.
 
-Plays ASCII Art Gif recorded in simple text file. It was written in
-shellscript(bash) at first, but it was too slow. So I rewrite in
-Haskell, which is
-[Cj-bc/brick-shgif](https://github.com/Cj-bc/brick-shgif)
+Plays ASCII Art Gif recorded in simple text file.  
+It was written in shellscript(bash) at first, but it was too slow.
+So I rewrite in Haskell, which is [Cj-bc/brick-shgif](https://github.com/Cj-bc/brick-shgif)
 
 |                                                                                  |
 |:---------------------------------------------------------------------------------|
