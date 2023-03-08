@@ -10,24 +10,28 @@ This document is still under development.
 
 1.  For communication
 
-    -   Japanese (Native)
-    -   English
-    -   French (Started leaning)
+|          | note            |
+|:---------|:----------------|
+| Japanese | Native          |
+| English  |                 |
+| French   | Started leaning |
 
 2.  For programming
 
-    -   Haskell
-    -   Python
-    -   C# (Unity)
-    -   ShellScript (Bash)
-    -   nushell
-    -   Go
-    -   Kotlin
-    -   Rust
-    -   Elm
+|                    |
+|:-------------------|
+| Haskell            |
+| Python             |
+| C# (Unity)         |
+| ShellScript (Bash) |
+| nushell            |
+| Go                 |
+| Kotlin             |
+| Rust               |
+| Elm                |
 
-    [Cj-bc/playground](https://github.com/Cj-bc/playground) contains
-    some practice program I made.
+[Cj-bc/playground](https://github.com/Cj-bc/playground) contains
+some practice program I made.
 
 ## Technologies that I like
 
