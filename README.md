@@ -69,7 +69,7 @@ some practice program I made.
 
 <details>
 <summary>
-### blib: bash library manager
+<h3>blib: bash library manager</h3>
 </summary>
 
 a library manager for shellscript I made. It\'s not used for years.
@@ -85,7 +85,7 @@ a library manager for shellscript I made. It\'s not used for years.
 
 <details>
 <summary>
-### Tools
+<h3>Tools</h3>
 </summary>
 
 |                                                                                                                                  |                                                                                                                                          |
@@ -214,7 +214,7 @@ Haskell, which is
 
 <details>
 <summary>
-### Archived/deprecated
+<h3>Archived/deprecated</h3>
 </summary>
 
 |                                                                                                                                   |
@@ -227,7 +227,7 @@ Haskell, which is
 
 <details>
 <summary>
-### Experimental
+<h3>Experimental</h3>
 </summary>
 
 |                                                                                                                       |
@@ -240,7 +240,7 @@ Haskell, which is
 
 <details>
 <summary>
-### Planned but not yet developed at all
+<h3>Planned but not yet developed at all</h3>
 </summary>
 
 |                                                                                                          |                                                                                                              |
@@ -256,7 +256,7 @@ Haskell, which is
 
 <details>
 <summary>
-### Etc
+<h3>Etc</h3>
 </summary>
 
 |                                                                               |                                                    |                                                             |                                |
