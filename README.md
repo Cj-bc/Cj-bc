@@ -62,7 +62,11 @@ This document is still under development.
 | [Cj-bc/misskey-hs](https://github.com/Cj-bc/misskey-hs) - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) API client for Haskell |
 | [Cj-bc/hVMCP](https://github.com/Cj-bc/hVMCP) - Haskell implementation of [VMCP(Virtual motion capture protocol)](https://protocol.vmc.info)   |
 | [own-library](https://github.com/Cj-bc/own-library) - utility functions for haskell                                                            |
+
+<details>
+<summary>
 ### blib: bash library manager
+</summary>
 
 a library manager for shellscript I made. It\'s not used for years.
 
@@ -73,7 +77,13 @@ a library manager for shellscript I made. It\'s not used for years.
 | [libfile](https://github.com/Cj-bc/libfile) - file related functions                                                                                      | [libtar](https://github.com/Cj-bc/libtar) - tar related functions                                                                                         |
 | [libdraw](https://github.com/Cj-bc/libdraw) - draw ASCII Art                                                                                              | [libstandard](https://github.com/Cj-bc/libstandard) - standard library used with blib                                                                     |
 | [libjson](https://github.com/Cj-bc/libjson) - JSON related functions                                                                                      | [bash-object-oriented](https://github.com/Cj-bc/bash-object-oriented) - attempt to implement OOP in bash                                                  |
+</details>
+
+<details>
+<summary>
 ### Tools
+</summary>
+
 |                                                                                                                                  |                                                                                                                                          |
 |:---------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 | [vmc-mixer](https://github.com/Cj-bc/vmc-mixer) - Tool to mix several VMCP streams                                               | [skk-vtuber-jisyo](https://github.com/Cj-bc/skk-vtuber-jisyo) - SKK dictionary about VTubers                                             |
@@ -90,30 +100,44 @@ a library manager for shellscript I made. It\'s not used for years.
 | [ReferenceURLs](https://github.com/Cj-bc/ReferenceURLs) - stores reference URL related to current directory                      | [54ysh](https://github.com/Cj-bc/54ysh) - speak out given sentence for macOS                                                             |
 | [CommonToolsForTerminal](https://github.com/Cj-bc/CommonToolsForTerminal) - some utilities                                       |                                                                                                                                          |
 
+</details>
+
 
 ### Plugins
 
+<details>
+<summary>
 1.  Vim
+</summary>
 
 |                                                                                                                                                          |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [cmus.vim](https://github.com/Cj-bc/cmus.vim) - Control [cmus](https://cmus.github.io/) from vim                                                         |
 | [drcs.vim](https://github.com/Cj-bc/drcs.vim) -                                                                                                          |
 | [bashinfinity.vim](https://github.com/Cj-bc/bashinfinity.vim) - vim plugin for [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) |
+</details>
 
+<details>
+<summary>
 2.  Emacs
+</summary>
 
 |                                                                                                                                                                      |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [neos-live-editor.el](https://github.com/Cj-bc/neos-live-editor.el) - Emacs client for [rheniumNV/neos-live-editor](https://github.com/rheniumNV/neos-live-editor)   |
 | [evil-textobj-parameter](https://github.com/Cj-bc/evil-textobj-parameter) - evil port of [sgur/vim-textobj-parameter](https://github.com/sgur/vim-textobj-parameter) |
 | [ol-mpv](https://github.com/Cj-bc/ol-mpv) - [Org-mode\'s](https://orgmode.org/) custom link to achive timestamp link                                                 |
+</details>
 
+<details>
+<summary>
 3.  Others
+</summary>
 
 |                                                                                                                                                                      |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [hyper-puchi-mirei](https://github.com/Cj-bc/hyper-puchi-mirei) - [早坂美玲](https://dic.pixiv.net/a/早坂美玲) theme for [Hyper terminal emulator](https://hyper.is/) |
+</details>
 
 ### Projects
 
@@ -125,7 +149,10 @@ a library manager for shellscript I made. It\'s not used for years.
 
 Package definitions
 
+<details>
+<summary>
 1.  homebrew
+</summary>
 
 |                                                                           |                                                                                                |                                                                                        |
 |:--------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
@@ -137,13 +164,18 @@ Package definitions
 | [homebrew-bpkg](https://github.com/Cj-bc/homebrew-bpkg)                   | [homebrew-bpkg-completion](https://github.com/Cj-bc/homebrew-bpkg-completion)                  | [homebrew-check256](https://github.com/Cj-bc/homebrew-check256)                        |
 | [homebrew-owncloud](https://github.com/Cj-bc/homebrew-owncloud)           | [homebrew-icloud](https://github.com/Cj-bc/homebrew-icloud)                                    | [homebrew-slacker](https://github.com/Cj-bc/homebrew-slacker)                          |
 | [homebrew-ReferenceURLs](https://github.com/Cj-bc/homebrew-ReferenceURLs) |                                                                                                |                                                                                        |
+</details>
 
+<details>
+<summary>
 2.  blib
+</summary>
 
 |                                                       |                                                     |
 |:------------------------------------------------------|:----------------------------------------------------|
 | [blib-libhttp](https://github.com/Cj-bc/blib-libhttp) | [blib-libtar](https://github.com/Cj-bc/blib-libtar) |
 | [blib-libfile](https://github.com/Cj-bc/blib-libfile) |                                                     |
+</details>
 
 ### \[Deprecated\] FDS: Face-Data-Server
 
@@ -176,7 +208,10 @@ Haskell, which is
 | [homebrew-shgif](https://github.com/Cj-bc/homebrew-shgif) - homebrew formulae    |
 | [blib-shgif](https://github.com/Cj-bc/blib-shgif) - blib formulae                |
 
+<details>
+<summary>
 ### Archived/deprecated
+</summary>
 
 |                                                                                                                                   |
 |:----------------------------------------------------------------------------------------------------------------------------------|
@@ -184,8 +219,12 @@ Haskell, which is
 | [gfm.vim](https://github.com/Cj-bc/gfm.vim) - Github flavored markdown plugin                                                     |
 | [applescript.vim](https://github.com/Cj-bc/applescript.vim) - Just copied others stuff                                            |
 | [homebrew-scopion](https://github.com/Cj-bc/homebrew-scopion) - formula for [coord-e/scopion](https://github.com/coord-e/scopion) |
+</details>
 
+<details>
+<summary>
 ### Experimental
+</summary>
 
 |                                                                                                                       |
 |:----------------------------------------------------------------------------------------------------------------------|
@@ -193,8 +232,12 @@ Haskell, which is
 | [tkinsh](https://github.com/Cj-bc/tkinsh) - TKinter for shellscript                                                   |
 | [a-frame-test](https://github.com/Cj-bc/a-frame-test)                                                                 |
 | [atproto-hs](https://github.com/Cj-bc/atproto-hs) - Experimental ATProtocol haskell implementation (WIP, almost dead) |
+</details>
 
+<details>
+<summary>
 ### Planned but not yet developed at all
+</summary>
 
 |                                                                                                          |                                                                                                              |
 |:---------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|
@@ -205,8 +248,12 @@ Haskell, which is
 | [climb](https://github.com/Cj-bc/climb) - movie maker for CLI                                            | [miners](https://github.com/Cj-bc/miners) - manager for cryptocoin miners                                    |
 | [twitcasting-haskell](https://github.com/Cj-bc/twitcasting-haskell) - twitcasting API client for haskell | [pixing](https://github.com/Cj-bc/pixing) - Edit pixel art in CUI                                            |
 |                                                                                                          | [unidoc](https://github.com/Cj-bc/unidoc) - Language-agnostic comment syntax & document generator            |
+</details>
 
+<details>
+<summary>
 ### Etc
+</summary>
 
 |                                                                               |                                                    |                                                             |                                |
 |:------------------------------------------------------------------------------|:---------------------------------------------------|:------------------------------------------------------------|:-------------------------------|
@@ -218,6 +265,7 @@ Haskell, which is
 | [wiki_codereading](https://github.com/Cj-bc/wiki_codereading)                 | Wiki for code reading                              | [wiki_default](https://github.com/Cj-bc/wiki_default)       | Default Wiki                   |
 | [tomari-btn](https://github.com/Cj-bc/tomari-btn/tree/develop)                | 兎鞠まりのボタンを作ろうとしていたやつ             | [mynotes](https://github.com/Cj-bc/mynotes)                 | Notes                          |
 | [win_init](https://github.com/Cj-bc/win_init)                                 | Init bat file for when I borrow Windows PC         | [ctf](https://github.com/Cj-bc/ctf)                         | CTF solving memo               |
+</details>
 
 ## SNS etc
 
