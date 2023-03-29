@@ -18,9 +18,6 @@ This document is still under development.
 
 2.  For programming
 
-
-[Cj-bc/playground](https://github.com/Cj-bc/playground) contains
-some practice program I made.
 |                    | last year I used it | repos                                                                                                       |
 |:-------------------|:--------------------|:------------------------------------------------------------------------------------------------------------|
 | Haskell            | 2023                | [my repositories using haskell](https://github.com/Cj-bc?tab=repositories&q=&type=&language=haskell&sort=)  |
@@ -32,6 +29,8 @@ some practice program I made.
 | Kotlin             | 2022                | NOT YET                                                                                                     |
 | Rust               | 2022                | NOT YET                                                                                                     |
 | nushell            | ????                | NOT YET                                                                                                     |
+
+[Cj-bc/playground](https://github.com/Cj-bc/playground) contains some practice program I made.
 
 ## Technologies that I like
 
