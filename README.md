@@ -18,20 +18,20 @@ This document is still under development.
 
 2.  For programming
 
-|                    |
-|:-------------------|
-| Haskell            |
-| Python             |
-| C# (Unity)         |
-| ShellScript (Bash) |
-| nushell            |
-| Go                 |
-| Kotlin             |
-| Rust               |
-| Elm                |
 
 [Cj-bc/playground](https://github.com/Cj-bc/playground) contains
 some practice program I made.
+|                    | last year I used it | repos                                                                                                       |
+|:-------------------|:--------------------|:------------------------------------------------------------------------------------------------------------|
+| Haskell            | 2023                | [my repositories using haskell](https://github.com/Cj-bc?tab=repositories&q=&type=&language=haskell&sort=)  |
+| Python             | 2022                | [my repositories using python](https://github.com/Cj-bc?tab=repositories&q=&type=&language=python&sort=)    |
+| C# (Unity)         | 2022                | [my repositories using c#](https://github.com/Cj-bc?tab=repositories&q=&type=&language=c#&sort=)            |
+| ShellScript (Bash) | 2022                | [my repositories using shell](https://github.com/Cj-bc?tab=repositories&q=&type=&language=shell&sort=)      |
+| Go                 | 2023                | NOT YET                                                                                                     |
+| Elm                | 2022                | NOT YET                                                                                                     |
+| Kotlin             | 2022                | NOT YET                                                                                                     |
+| Rust               | 2022                | NOT YET                                                                                                     |
+| nushell            | ????                | NOT YET                                                                                                     |
 
 ## Technologies that I like
 
