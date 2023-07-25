@@ -68,9 +68,11 @@ This document is still under development.
 
 |                                                                                                                                                |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------|
+| [Cj-bc/misskey.el](https://github.com/Cj-bc/misskey.el) - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) API client for Elisp   |
 | [Cj-bc/misskey-hs](https://github.com/Cj-bc/misskey-hs) - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) API client for Haskell |
 | [Cj-bc/hVMCP](https://github.com/Cj-bc/hVMCP) - Haskell implementation of [VMCP(Virtual motion capture protocol)](https://protocol.vmc.info)   |
 | [own-library](https://github.com/Cj-bc/own-library) - utility functions for haskell                                                            |
+| [asm.lua](https://github.com/Cj-bc/asm.lua) - Simple and experimental implementation of Action State machine for VCI                           |
 
 <details>
 <summary>
