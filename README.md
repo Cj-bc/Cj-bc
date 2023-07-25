@@ -13,7 +13,7 @@ This document is still under development.
 |          | note            |
 |:---------|:----------------|
 | Japanese | Native          |
-| English  |                 |
+| English  | TOEIC LR: 915   |
 | French   | Started leaning |
 
 2.  For programming
