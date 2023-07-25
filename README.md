@@ -18,20 +18,25 @@ This document is still under development.
 
 2.  For programming
 
-|                    | last year I used it | repos                                                                                                       |
-|:-------------------|:--------------------|:------------------------------------------------------------------------------------------------------------|
-| Haskell            | 2023                | [my repositories using haskell](https://github.com/Cj-bc?tab=repositories&q=&type=&language=haskell&sort=)  |
-| Python             | 2022                | [my repositories using python](https://github.com/Cj-bc?tab=repositories&q=&type=&language=python&sort=)    |
-| C# (Unity)         | 2022                | [my repositories using c#](https://github.com/Cj-bc?tab=repositories&q=&type=&language=c#&sort=)            |
-| ShellScript (Bash) | 2022                | [my repositories using shell](https://github.com/Cj-bc?tab=repositories&q=&type=&language=shell&sort=)      |
-| Emacs Lisp         | 2023                | [my repositories using Elisp](https://github.com/Cj-bc?tab=repositories&q=&type=&language=emacs+lisp&sort=) |
-| Go                 | 2023                | NOT YET                                                                                                     |
-| Elm                | 2022                | NOT YET                                                                                                     |
-| Kotlin             | 2022                | NOT YET                                                                                                     |
-| Rust               | 2022                | NOT YET                                                                                                     |
-| nushell            | ????                | NOT YET                                                                                                     |
+|                    | personal rating | last year I used it | repos                                                                                                       |
+|:-------------------|:----------------|:--------------------|:------------------------------------------------------------------------------------------------------------|
+| Haskell            | 4               | 2023                | [my repositories using haskell](https://github.com/Cj-bc?tab=repositories&q=&type=&language=haskell&sort=)  |
+| Python             | 4               | 2022                | [my repositories using python](https://github.com/Cj-bc?tab=repositories&q=&type=&language=python&sort=)    |
+| C# (Unity)         | 3               | 2022                | [my repositories using c#](https://github.com/Cj-bc?tab=repositories&q=&type=&language=c#&sort=)            |
+| ShellScript (Bash) | 4               | 2022                | [my repositories using shell](https://github.com/Cj-bc?tab=repositories&q=&type=&language=shell&sort=)      |
+| Emacs Lisp         | 4               | 2023                | [my repositories using Elisp](https://github.com/Cj-bc?tab=repositories&q=&type=&language=emacs+lisp&sort=) |
+| Go                 | 3               | 2023                | NOT YET                                                                                                     |
+| Elm                | 2               | 2022                | NOT YET                                                                                                     |
+| Kotlin             | 2               | 2022                | NOT YET                                                                                                     |
+| Rust               | 1               | 2022                | NOT YET                                                                                                     |
+| nushell            | 1               | ????                | NOT YET                                                                                                     |
 
-[Cj-bc/playground](https://github.com/Cj-bc/playground) contains some practice program I made.
+1: Finisied some tutorials
+2: Wrote some practice codes
+3: Can write an application that doesn't integrates with external resources
+4: Can write an application that integrates with external resources (e.g. DB, web API)
+
+[Cj-bc/playground](https://github.com/Cj-bc/playground) contains some practice programs I made.
 
 ## Technologies that I like
 
