@@ -284,5 +284,5 @@ So I rewrite in Haskell, which is [Cj-bc/brick-shgif](https://github.com/Cj-bc/b
 |                                             |                                                                                                                           |
 |:--------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | Twitter (For public)                        | [@mihe_himari](https://twitter.com/mihe_himari)                                                                           |
-| Twitter (日常etc, 一応書いてあるけど非推奨) | [@cj_bc_sd](https://twitter.com/cj_bc_sd)                                                                                 |
+| Twitter (For private)                       | [@cj_bc_sd](https://twitter.com/cj_bc_sd)                                                                                 |
 | Misskey                                     | [@cj_bc_sd_@misskey.io](https://misskey.io/@cj_bc_sd), [@cj_bc_sd@misskey.neos.love](https://misskey.neos.love/@cj_bc_sd) |
