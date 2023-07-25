@@ -26,6 +26,7 @@ This document is still under development.
 | ShellScript (Bash) | 4               | 2022                | [my repositories using shell](https://github.com/Cj-bc?tab=repositories&q=&type=&language=shell&sort=)      |
 | Emacs Lisp         | 4               | 2023                | [my repositories using Elisp](https://github.com/Cj-bc?tab=repositories&q=&type=&language=emacs+lisp&sort=) |
 | Go                 | 3               | 2023                | NOT YET                                                                                                     |
+| Lua                | 2               | 2023                | [my repositories using lua](https://github.com/Cj-bc?tab=repositories&q=&type=&language=lua&sort=)          |
 | Elm                | 2               | 2022                | NOT YET                                                                                                     |
 | Kotlin             | 2               | 2022                | NOT YET                                                                                                     |
 | Rust               | 1               | 2022                | NOT YET                                                                                                     |
