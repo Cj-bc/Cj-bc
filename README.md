@@ -32,10 +32,10 @@ This document is still under development.
 | Rust               | 1               | 2022                | NOT YET                                                                                                     |
 | nushell            | 1               | ????                | NOT YET                                                                                                     |
 
-1: Finisied some tutorials
-2: Wrote some practice codes
-3: Can write an application that doesn't integrates with external resources
-4: Can write an application that integrates with external resources (e.g. DB, web API)
++ 1: Finisied some tutorials
++ 2: Wrote some practice codes
++ 3: Can write an application that doesn't integrates with external resources
++ 4: Can write an application that integrates with external resources (e.g. DB, web API)
 
 [Cj-bc/playground](https://github.com/Cj-bc/playground) contains some practice programs I made.
 
