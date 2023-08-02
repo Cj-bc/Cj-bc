@@ -189,7 +189,21 @@ Package definitions
 | [blib-libfile](https://github.com/Cj-bc/blib-libfile) |                                                     |
 </details>
 
-### \[Deprecated\] FDS: Face-Data-Server
+
+<details>
+<summary>
+<h3>Archived/deprecated</h3>
+</summary>
+
+|                                                                                                                                   |
+|:----------------------------------------------------------------------------------------------------------------------------------|
+| [slacker](https://github.com/Cj-bc/slacker) - Send slack message from Shellscript                                                 |
+| [gfm.vim](https://github.com/Cj-bc/gfm.vim) - Github flavored markdown plugin                                                     |
+| [applescript.vim](https://github.com/Cj-bc/applescript.vim) - Just copied others stuff                                            |
+| [homebrew-scopion](https://github.com/Cj-bc/homebrew-scopion) - formula for [coord-e/scopion](https://github.com/coord-e/scopion) |
+
+
+#### FDS: Face-Data-Server
 
 It was a project to build server-client model avatar application.  
 FDS was the protocol for this project, but after I discovered
@@ -206,7 +220,7 @@ Some repositories (e.g. `faclig`) is actively developed since then with VMCP.
 | [FDS-protos](https://github.com/Cj-bc/FDS-protos) - Protocol definition                                                      |
 | [faclig.vim](https://github.com/Cj-bc/faclig.vim) -- control faclig from vim. Doesn't work as faclig is rewritten completely |
 
-### \[Deprecated\] Shgif: make ASCII ART Gif file.
+#### Shgif: make ASCII ART Gif file.
 
 Plays ASCII Art Gif recorded in simple text file.  
 It was written in shellscript(bash) at first, but it was too slow.
@@ -218,18 +232,6 @@ So I rewrite in Haskell, which is [Cj-bc/brick-shgif](https://github.com/Cj-bc/b
 | [libshgif](https://github.com/Cj-bc/libshgif) - blib library for shgif           |
 | [homebrew-shgif](https://github.com/Cj-bc/homebrew-shgif) - homebrew formulae    |
 | [blib-shgif](https://github.com/Cj-bc/blib-shgif) - blib formulae                |
-
-<details>
-<summary>
-<h3>Archived/deprecated</h3>
-</summary>
-
-|                                                                                                                                   |
-|:----------------------------------------------------------------------------------------------------------------------------------|
-| [slacker](https://github.com/Cj-bc/slacker) - Send slack message from Shellscript                                                 |
-| [gfm.vim](https://github.com/Cj-bc/gfm.vim) - Github flavored markdown plugin                                                     |
-| [applescript.vim](https://github.com/Cj-bc/applescript.vim) - Just copied others stuff                                            |
-| [homebrew-scopion](https://github.com/Cj-bc/homebrew-scopion) - formula for [coord-e/scopion](https://github.com/coord-e/scopion) |
 </details>
 
 <details>
