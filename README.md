@@ -4,7 +4,11 @@ I like to build something I want, with language I like.
 
 This document is still under development.
 
-## skills
+
+<details>
+<summary>
+<h2>skills</h2>
+</summary>
 
 ### Languages
 
@@ -38,6 +42,7 @@ This document is still under development.
 + 4: Can write an application that integrates with external resources (e.g. DB, web API)
 
 [Cj-bc/playground](https://github.com/Cj-bc/playground) contains some practice programs I made.
+</details>
 
 ## Technologies that I like
 
@@ -54,7 +59,8 @@ This document is still under development.
     -   E.g. [jtdaugherty/brick](https://github.com/jtdaugherty/brick),
         [Elm architecture](https://guide.elm-lang.org/architecture/)
 
-## What I make
+<details>
+<summary> <h2> What I make </h2> </summary>
 
 ### TUI
 
@@ -278,6 +284,7 @@ So I rewrite in Haskell, which is [Cj-bc/brick-shgif](https://github.com/Cj-bc/b
 | [wiki_codereading](https://github.com/Cj-bc/wiki_codereading)                 | Wiki for code reading                              | [wiki_default](https://github.com/Cj-bc/wiki_default)       | Default Wiki                   |
 | [tomari-btn](https://github.com/Cj-bc/tomari-btn/tree/develop)                | 兎鞠まりのボタンを作ろうとしていたやつ             | [mynotes](https://github.com/Cj-bc/mynotes)                 | Notes                          |
 | [win_init](https://github.com/Cj-bc/win_init)                                 | Init bat file for when I borrow Windows PC         | [ctf](https://github.com/Cj-bc/ctf)                         | CTF solving memo               |
+</details>
 </details>
 
 ## SNS etc
