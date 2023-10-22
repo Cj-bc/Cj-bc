@@ -120,6 +120,14 @@ a library manager for shellscript I made. It\'s not used for years.
 
 </details>
 
+<details>
+  <summary><h3>Applications</h3></summary>
+
+  |                                                                                          |
+  |:----------------------------------------------------------------------------------------:|
+  | [TextObjectsVR](https://github.com/Cj-bc/TextObjectsVR) - PoC of Text Manipulation in VR |
+
+</details>
 
 ### Plugins
 
