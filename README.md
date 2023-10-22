@@ -26,7 +26,7 @@ This document is still under development.
 |:-------------------|:----------------|:--------------------|:------------------------------------------------------------------------------------------------------------|
 | Haskell            | 4               | 2023                | [my repositories using haskell](https://github.com/Cj-bc?tab=repositories&q=&type=&language=haskell&sort=)  |
 | Python             | 4               | 2022                | [my repositories using python](https://github.com/Cj-bc?tab=repositories&q=&type=&language=python&sort=)    |
-| C# (Unity)         | 3               | 2022                | [my repositories using c#](https://github.com/Cj-bc?tab=repositories&q=&type=&language=c#&sort=)            |
+| C# (Unity)         | 3               | 2022                | [my repositories using c#](https://github.com/Cj-bc?tab=repositories&q=&type=&language=c%23&sort=)          |
 | ShellScript (Bash) | 4               | 2022                | [my repositories using shell](https://github.com/Cj-bc?tab=repositories&q=&type=&language=shell&sort=)      |
 | Emacs Lisp         | 4               | 2023                | [my repositories using Elisp](https://github.com/Cj-bc?tab=repositories&q=&type=&language=emacs+lisp&sort=) |
 | Go                 | 3               | 2023                | [my repositories using Go](https://github.com/Cj-bc?tab=repositories&q=&type=&language=Go&sort=)            |
