@@ -116,7 +116,7 @@ a library manager for shellscript I made. It\'s not used for years.
 | [watchfile](https://github.com/Cj-bc/watchfile) - draw file in real time                                                         | [qrdecoder](https://github.com/Cj-bc/qrdecoder) - decode QRCode                                                                          |
 | [check256](https://github.com/Cj-bc/check256) - check SHA256 hash for github release tar.gz file                                 | [icloud](https://github.com/Cj-bc/icloud) - tiny CLI interface for icloud                                                                |
 | [ReferenceURLs](https://github.com/Cj-bc/ReferenceURLs) - stores reference URL related to current directory                      | [54ysh](https://github.com/Cj-bc/54ysh) - speak out given sentence for macOS                                                             |
-| [CommonToolsForTerminal](https://github.com/Cj-bc/CommonToolsForTerminal) - some utilities                                       |                                                                                                                                          |
+| [CommonToolsForTerminal](https://github.com/Cj-bc/CommonToolsForTerminal) - some utilities                                       | [yochat2ws](https://github.com/Cj-bc/yochat2ws) - Redirect YouTube Live Chat to Websocket connection                                     |
 
 </details>
 
