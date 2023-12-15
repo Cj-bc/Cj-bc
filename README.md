@@ -14,10 +14,10 @@ This document is still under development.
 
 1.  For communication
 
-|          | note            |
-|:---------|:----------------|
-| Japanese | Native          |
-| English  | TOEIC LR: 915   |
+|          | note             |
+|:---------|:-----------------|
+| Japanese | Native           |
+| English  | TOEIC LR: 915    |
 | French   | Started learning |
 
 2.  For programming
