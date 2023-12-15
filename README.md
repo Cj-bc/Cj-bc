@@ -18,7 +18,7 @@ This document is still under development.
 |:---------|:----------------|
 | Japanese | Native          |
 | English  | TOEIC LR: 915   |
-| French   | Started leaning |
+| French   | Started learning |
 
 2.  For programming
 
