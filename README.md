@@ -172,6 +172,7 @@ a library manager for shellscript I made. It\'s not used for years.
 |:------------------------------------------------------------------------------------------------------------------------|
 | [yozakura-project](https://github.com/Cj-bc/yozakura-project) - Experimental project to build VTuber like system in CLI |
 | [skkishoe](https://github.com/Cj-bc/skkishoe), [ddskk-skkishoe](https://github.com/Cj-bc/ddskk-skkishoe), [skkishoe-static-api](https://github.com/Cj-bc/skkishoe-static-api) - SKK-ish dictionary server |
+| [virtex](https://github.com/Cj-bc/virtex) - Public resources for virtex, a highly customizable virtual keyboard in Resonite |
 
 ### Packages
 
