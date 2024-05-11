@@ -153,6 +153,7 @@ a library manager for shellscript I made. It\'s not used for years.
 | [neos-live-editor.el](https://github.com/Cj-bc/neos-live-editor.el) - Emacs client for [rheniumNV/neos-live-editor](https://github.com/rheniumNV/neos-live-editor)   |
 | [evil-textobj-parameter](https://github.com/Cj-bc/evil-textobj-parameter) - evil port of [sgur/vim-textobj-parameter](https://github.com/sgur/vim-textobj-parameter) |
 | [ol-mpv](https://github.com/Cj-bc/ol-mpv) - [Org-mode\'s](https://orgmode.org/) custom link to achive timestamp link                                                 |
+| [ob-typst](https://github.com/Cj-bc/ob-typst) - org babel for [typst](https://github.com/typst/typst)                                                                |
 </details>
 
 <details>
