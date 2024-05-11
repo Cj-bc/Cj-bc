@@ -24,12 +24,12 @@ This document is still under development.
 
 |                    | personal rating | last year I used it | repos                                                                                                       |
 |:-------------------|:----------------|:--------------------|:------------------------------------------------------------------------------------------------------------|
-| Haskell            | 4               | 2023                | [my repositories using haskell](https://github.com/Cj-bc?tab=repositories&q=&type=&language=haskell&sort=)  |
+| Haskell            | 4               | 2024                | [my repositories using haskell](https://github.com/Cj-bc?tab=repositories&q=&type=&language=haskell&sort=)  |
 | Python             | 4               | 2022                | [my repositories using python](https://github.com/Cj-bc?tab=repositories&q=&type=&language=python&sort=)    |
-| C# (Unity)         | 3               | 2022                | [my repositories using c#](https://github.com/Cj-bc?tab=repositories&q=&type=&language=c%23&sort=)          |
+| C# (Unity)         | 3               | 2024                | [my repositories using c#](https://github.com/Cj-bc?tab=repositories&q=&type=&language=c%23&sort=)          |
 | ShellScript (Bash) | 4               | 2022                | [my repositories using shell](https://github.com/Cj-bc?tab=repositories&q=&type=&language=shell&sort=)      |
-| Emacs Lisp         | 4               | 2023                | [my repositories using Elisp](https://github.com/Cj-bc?tab=repositories&q=&type=&language=emacs+lisp&sort=) |
-| Go                 | 3               | 2023                | [my repositories using Go](https://github.com/Cj-bc?tab=repositories&q=&type=&language=Go&sort=)            |
+| Emacs Lisp         | 4               | 2024                | [my repositories using Elisp](https://github.com/Cj-bc?tab=repositories&q=&type=&language=emacs+lisp&sort=) |
+| Go                 | 3               | 2024                | [my repositories using Go](https://github.com/Cj-bc?tab=repositories&q=&type=&language=Go&sort=)            |
 | Lua                | 2               | 2023                | [my repositories using lua](https://github.com/Cj-bc?tab=repositories&q=&type=&language=lua&sort=)          |
 | Elm                | 2               | 2022                | NOT YET                                                                                                     |
 | Kotlin             | 2               | 2022                | NOT YET                                                                                                     |
